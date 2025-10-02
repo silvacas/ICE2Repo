@@ -14,7 +14,7 @@ public class ICE2_TestGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("rev 2 local");
+        System.out.println("rev 3 local");
         // TODO code application logic here
     }
     
